@@ -1,0 +1,13 @@
+body{
+	background-image:url(cn.jpg);
+	background-size:1320px 620px;
+	background-repeat:no-repeat;
+	font-family: 'Shadows Into Light', cursive;
+	font-size:97px;
+	min-width:1320px;
+}
+
+a{
+	text-decoration: none;
+	color:#a2cd5a;
+	}

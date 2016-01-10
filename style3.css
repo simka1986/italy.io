@@ -1,0 +1,18 @@
+body{
+	background-image:url(italy.jpg);
+	background-size:1400px 800px;
+	background-repeat:no-repeat;
+	font-family: 'Shadows Into Light', cursive;
+	font-size:117px;
+	min-width:1320px;
+}
+
+iframe{
+	margin-left:200px;
+	margin-top:70px;
+	 box-shadow: 5px 0 15px rgba(0,0,0,0.5);
+}
+
+a{
+	text-decoration: none;
+	color:#fff68f;
